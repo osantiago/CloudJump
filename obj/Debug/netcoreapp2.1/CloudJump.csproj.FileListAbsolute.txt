@@ -1,0 +1,11 @@
+D:\Core Examples\CloudJump\CloudJump\bin\Debug\netcoreapp2.1\CloudJump.deps.json
+D:\Core Examples\CloudJump\CloudJump\bin\Debug\netcoreapp2.1\CloudJump.runtimeconfig.json
+D:\Core Examples\CloudJump\CloudJump\bin\Debug\netcoreapp2.1\CloudJump.runtimeconfig.dev.json
+D:\Core Examples\CloudJump\CloudJump\bin\Debug\netcoreapp2.1\CloudJump.dll
+D:\Core Examples\CloudJump\CloudJump\bin\Debug\netcoreapp2.1\CloudJump.pdb
+D:\Core Examples\CloudJump\CloudJump\obj\Debug\netcoreapp2.1\CloudJump.csprojAssemblyReference.cache
+D:\Core Examples\CloudJump\CloudJump\obj\Debug\netcoreapp2.1\CloudJump.csproj.CoreCompileInputs.cache
+D:\Core Examples\CloudJump\CloudJump\obj\Debug\netcoreapp2.1\CloudJump.AssemblyInfoInputs.cache
+D:\Core Examples\CloudJump\CloudJump\obj\Debug\netcoreapp2.1\CloudJump.AssemblyInfo.cs
+D:\Core Examples\CloudJump\CloudJump\obj\Debug\netcoreapp2.1\CloudJump.dll
+D:\Core Examples\CloudJump\CloudJump\obj\Debug\netcoreapp2.1\CloudJump.pdb
